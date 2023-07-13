@@ -10,4 +10,4 @@
 
 # 可执行绿色文件
 
-MouseModelSwitch.exe 为打包好的免安装可执行 exe 文件，可下载直接使用。
+`MouseModelSwitch.exe` 为打包好的免安装可执行 exe 文件，可下载直接使用。
